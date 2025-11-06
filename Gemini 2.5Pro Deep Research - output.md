@@ -55,10 +55,13 @@ This is evident in studies of their physical-world understanding. For example, r
 ### B. The Social Paradox: The "Incomplete" Domesticate
 
 The paradox arises because this solitary blueprint is contradicted by the cat's modern social behavior. Domestication (a process of about 10,000 years) has acted as a powerful new selective pressure. While this is an evolutionary eye-blink—not enough time to fully rewire the feline brain—it has been enough to co-opt existing hardware for new social purposes. This is why cats are often called "incompletely domesticated."
+
 The data reveals a "social" animal that contradicts the ancestral model:
-Feral (non-pet) cats, long thought to be solitary, in fact form complex, stable, matriarchal social colonies, especially around reliable food sources.
-Domestic cats form clear attachment bonds with their human owners. Research using the "secure base" test (the same test used to measure attachment in human infants and dogs) found that cats use their owner as a secure base in an unfamiliar environment, demonstrating a deep social-emotional bond.
-Cats are not as "aloof" as their reputation suggests. They are capable of following human social cues, such as using an owner's gaze or pointing gesture to find hidden food.
+
+- Feral (non-pet) cats, long thought to be solitary, in fact form complex, stable, matriarchal social colonies, especially around reliable food sources.
+- Domestic cats form clear attachment bonds with their human owners. Research using the "secure base" test (the same test used to measure attachment in human infants and dogs) found that cats use their owner as a secure base in an unfamiliar environment, demonstrating a deep social-emotional bond.
+- Cats are not as "aloof" as their reputation suggests. They are capable of following human social cues, such as using an owner's gaze or pointing gesture to find hidden food.
+
 This paradoxical dataset (solitary and social) is resolved by seeing the domestic cat as an animal in a state of rapid, ongoing cognitive evolution. We are witnessing its mind as it adapts in real-time, stretching its ancestral, maternal, and predatory cognitive tools to fit the new, complex social niche of the human home.
 
 ### C. The 'Meow': An Evolved Tool of Interspecies Manipulation
